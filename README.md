@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Unisha
 - 👀 I’m interested in all things coding and enjoying it :)
-- 🌱 I’m currently learning to code and become a PRO ;)
 - 📫 How to reach me: linkedIN OR IG
 
 <!---
